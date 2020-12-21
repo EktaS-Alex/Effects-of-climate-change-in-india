@@ -1,5 +1,6 @@
 # Effects-of-climate-change-in-india
-Risky analysis of Climate change in India
+Delivered a decision making model to suggest Indian government in curbing the adverse effects of Climate change using
+MAUT (Multi Attribute Utility Theory), Correlation analysis, Monte Carlo stimulation and One way sensitivity analysis
 
 
 On Monday, October 8th, the UN Intergovernmental Panel on Climate Change released a special report that describes the risks and impacts of a 1.5°C temperature increase above pre-industrial levels within the next few decades:
